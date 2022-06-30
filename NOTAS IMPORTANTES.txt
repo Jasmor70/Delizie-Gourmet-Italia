@@ -1,0 +1,18 @@
+CAMBI DA FARE IN NICEPAGE.CSS
+
+NICEPAGE CSS 34540 cambia il colore del primo testo della pagina a:  #27ae60
+
+
+COLORE PER MENU INGREDIENTI: #b29a36 
+ORIGINALE ROSSO:  color: #ff0000 !important;
+
+NICEPAGE CSS 36908
+
+
+Whatsapp Code:
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-40a04e6e-5db5-4d65-a973-79ffbd449eef"></div>
+
+Up to Top Button
+
+<span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; right: 20px; bottom: 85px;" class="u-back-to-top u-file-icon u-icon u-opacity u-opacity-90 u-text-custom-color-3" data-href="#"><img src="images/13.png" alt="" data-original-src="np://user.desktop.nicepage.com/Site_91685284/images/7604606.png" data-color="#000000"></span>
