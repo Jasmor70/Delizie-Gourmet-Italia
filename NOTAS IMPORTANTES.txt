@@ -1,12 +1,16 @@
 CAMBI DA FARE IN NICEPAGE.CSS
 
-NICEPAGE CSS 34540 cambia il colore del primo testo della pagina a:  #27ae60
+NICEPAGE CSS 34877 cambia il colore del primo testo della pagina a:  #27ae60
 
 
 COLORE PER MENU INGREDIENTI: #b29a36 
 ORIGINALE ROSSO:  color: #ff0000 !important;
 
 NICEPAGE CSS 36908
+
+
+https://facebook.com/Delizie-Ditalia-Gourmet-1874638625970220/
+https://instagram.com/deliziegourmetditalia
 
 
 Whatsapp Code:
