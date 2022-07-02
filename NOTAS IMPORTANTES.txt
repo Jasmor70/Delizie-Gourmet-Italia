@@ -20,3 +20,21 @@ Whatsapp Code:
 Up to Top Button
 
 <span style="height: 40px; width: 40px; margin-left: 0px; margin-right: auto; margin-top: 0px; right: 5px; bottom: 15px; background-image: none;" class="u-back-to-top u-file-icon u-icon u-opacity u-opacity-90 u-text-custom-color-2" data-href="#"><img src="images/7604606.png" alt="" data-original-src="images/7604606-16.png" data-color="#000000"></span>
+
+
+hamburger menu
+
+oswald
+24
+
+Active #27ae60
+
+Hoover #ff0000
+
+#478ac9
+
+IN CASE OF A GENERAL FUCK UP WITH FONTS....
+LINE 15 OF EACH HTML FILE
+
+
+<link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
