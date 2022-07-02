@@ -5,17 +5,19 @@
 .u-section-1 .u-text-1 {
   font-weight: 900;
   width: 411px;
-  margin: 93px auto 35px;
+  margin: auto auto 0;
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
     min-height: 153px;
   }
+}
 
+@media (max-width: 767px) {
   .u-section-1 .u-text-1 {
-    margin-top: 84px;
-    margin-bottom: 31px;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
 }
 
