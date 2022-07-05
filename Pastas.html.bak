@@ -89,7 +89,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Bucatini Divella&nbsp;<br>Nº6 500gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-1" src="images/pastas/DIvella Bucatini 6 - 500Gr.png" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1">RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1">RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -97,7 +97,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Vermicelli<br>Nº7 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Vermicelli 7 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -105,7 +105,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Spaghetti<br>Ristorante Nº8
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Spaghetti Ristorante 8 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -113,7 +113,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Spaghettini<br>Nº9 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-4" src="images/pastas/DIvella Spaghettini 9 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 130.00</a>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Capellini<br>Nº11 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-1" src="images/pastas/DIvella Capellini 11 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -137,7 +137,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Fettuccine<br>Nº12 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Fettuccine 12 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -145,7 +145,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Linguine<br>Nº14 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Linguine 14 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -153,7 +153,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Rigatoni<br>Nº17 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Rigatoni 17 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 130.00</a>
               </div>
             </div>
           </div>
@@ -169,7 +169,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Caserecce<br>Nº25 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Casarecce 25 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1">RD$ 150.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1">RD$ 150.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -177,7 +177,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Penne Rigate<br>Nº27 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Penne Rigate 27 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -185,7 +185,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Penne Integrali<br>Nº27 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Penne Rigate Integrali 27 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 160.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 160.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -193,7 +193,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Penne Lisce<br>Nº32 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Penne Ziti Lisce 32 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 130.00</a>
               </div>
             </div>
           </div>
@@ -209,7 +209,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Fusilli<br>Nº40 500Gr
                 </h4>
                 <img class="u-align-center u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Fusilli 40 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -217,7 +217,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Fusilli<br>Integrali Nº40 500Gr
                 </h4>
                 <img class="u-align-center u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Fusilli 40 Integrali - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 160.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 160.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -225,7 +225,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Gomiti<br>Nº53 500Gr
                 </h4>
                 <img class="u-align-center u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Gomiti 53 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -233,7 +233,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Gnocchetti<br>Sardi Nº58
                 </h4>
                 <img class="u-align-center u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Gnocchetti Sardi 58 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 150.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 150.00</a>
               </div>
             </div>
           </div>
@@ -249,7 +249,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Ditali<br>Nº61 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Ditali 61 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -257,7 +257,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Paternosti<br>Rigati Nº63 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Paternosti rigati 63 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -265,7 +265,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Stelline<br>Nº74 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Stelline 74 - 500Gr.png" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 130.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 130.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -273,7 +273,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Paccheri<br>Napoletani Nº80
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Paccheri Napoletani 80 - 500Gr.png" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 220.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 220.00</a>
               </div>
             </div>
           </div>
@@ -289,7 +289,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Farfalle<br>Nº85 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Farfalle 85- 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1">RD$ 160.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1">RD$ 160.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -297,7 +297,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Orecchiette<br>Nº86 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Orecchiette Baresi 86 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 160.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 160.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -305,7 +305,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Fettuccine<br>Nidi Semola Nº90
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Fettuccine Nidi 90 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 160.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 160.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -313,7 +313,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Tagliolini<br>All'uovo Nº96 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Tagliolini Uovo 96 - 500Gr.png" alt="" data-image-width="300" data-image-height="300">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 250.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 250.00</a>
               </div>
             </div>
           </div>
@@ -329,7 +329,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Fettuccine<br>All'uovo Nº97 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Fettuccine Uovo 112 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1">RD$ 250.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1">RD$ 250.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -337,7 +337,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> Divella Lasagna<br>All'uovo Nº 108 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-2" src="images/pastas/Divella Lasagne Uovo 108 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2"> RD$ 250.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2"> RD$ 250.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -345,7 +345,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> Divella Pappardelle<br>All'uovo Nº113 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-3" src="images/pastas/Divella Pappardelle Uovo 113 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3"> RD$ 250.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3"> RD$ 250.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -353,7 +353,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> Divella Gnocchi<br>Di Patate 500Gr
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-4" src="images/pastas/Divella Gnocchi di  Patate - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4"> RD$ 150.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4"> RD$ 150.00</a>
               </div>
             </div>
           </div>
@@ -369,7 +369,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-1"> Divella Lasagne <br>di Semola
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-1" src="images/pastas/Divella Lasagne Semola 109 - 500Gr.png" alt="" data-image-width="200" data-image-height="170">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-1">RD$ 210.00</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-1">RD$ 210.00</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -377,7 +377,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-2"> -<br>-
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-2" src="images/pastas/WhiteBackground.jpg" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-2">---</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-2">---</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -385,7 +385,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-3"> -<br>-
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-3" src="images/pastas/WhiteBackground.jpg" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-3">---</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-3">---</a>
               </div>
             </div>
             <div class="u-border-1 u-border-palette-1-base u-container-style u-custom-item u-list-item u-radius-10 u-repeater-item u-shape-round">
@@ -393,7 +393,7 @@ border: top right bottom left !important; border-color: #ffffff !important; bord
                 <h4 class="u-align-center u-custom-item u-text u-text-4"> -<br>-
                 </h4>
                 <img class="u-align-center u-expanded-width-md u-image u-image-round u-radius-10 u-image-4" src="images/pastas/WhiteBackground.jpg" alt="" data-image-width="225" data-image-height="225">
-                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-10 u-btn-4">---</a>
+                <a href="#" class="u-align-center u-btn u-btn-round u-button-style u-custom-color-2 u-hover-palette-1-dark-1 u-radius-3 u-btn-4">---</a>
               </div>
             </div>
           </div>
